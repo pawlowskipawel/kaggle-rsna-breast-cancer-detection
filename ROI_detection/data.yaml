@@ -1,0 +1,5 @@
+train: /home/pawel/Projects/rsna-breast-cancer-detection/ROI_detection/data/train
+val: /home/pawel/Projects/rsna-breast-cancer-detection/ROI_detection/data/valid
+
+nc: 1
+names: ['ROI']
